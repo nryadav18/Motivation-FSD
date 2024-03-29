@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    background-image: url("assets/images/CodeImage4.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: contain;
+}
+.firsth1{
+    padding-top: 30px;
+    text-align: center;
+    color: gold;
+}
+.firstDiv , .secondDiv , .thirdDiv{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 60px;
+}
+.fdImage , .sdImage , .tdImage{
+    width: 100%;
+    border: 5px solid rgb(255, 205, 234);
+}
+h1{
+    color: gold;
+    text-align: center;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+
